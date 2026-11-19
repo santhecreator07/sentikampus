@@ -1,0 +1,13 @@
+# Dependensi runtime SentiKampus Backend
+# Semua versi dipinned dengan range yang kompatibel.
+
+# Web framework
+fastapi>=0.110,<1
+uvicorn[standard]>=0.27,<1
+
+# Machine Learning
+scikit-learn>=1.4,<2
+numpy>=1.24,<3
+
+# Serialisasi (sudah bawaan Python, dicantumkan sebagai dokumentasi)
+# pickle — stdlib

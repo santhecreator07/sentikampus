@@ -1,0 +1,13 @@
+{
+  "model_name": "sentikampus-tfidf-logistic-regression",
+  "model_version": "demo-2.0.0",
+  "trained_at": "2026-10-22T03:33:24.422756+00:00",
+  "training_samples": 36,
+  "labels": [
+    "negatif",
+    "netral",
+    "positif"
+  ],
+  "scikit_learn_version": "1.9.1",
+  "purpose": "Demonstrasi pembelajaran; bukan untuk keputusan administratif."
+}

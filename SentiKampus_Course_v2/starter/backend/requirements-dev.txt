@@ -1,0 +1,4 @@
+# Dependensi development dan pengujian (tidak termasuk dalam image Docker)
+httpx>=0.27,<1
+pytest>=8,<10
+locust>=2.24,<3
